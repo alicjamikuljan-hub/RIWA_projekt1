@@ -5,3 +5,7 @@ Razvoj interaktivnih web aplikacija 2026
 ## Moj napredak - prve izmjene
 
 Vježbam rad s Git granama i upravljanje verzijama projekta.
+
+## Izmjene 2
+
+Dohvat izmjena sa udaljenog repozitorija 
